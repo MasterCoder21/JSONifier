@@ -1,4 +1,4 @@
-# JSONifier
+# [JSONifier](https://github.com/MasterCoder21/JSONifier) << Click there for package details
 
 ---
 ## A package for reading, writing, and editing of JSON files, Python dictionaries, and such.

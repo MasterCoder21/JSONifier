@@ -5,13 +5,14 @@ with open("README.md", "r") as f:
 
 setup(
   name='JSONifier',
-  version='0.0.5',
+  version='0.0.6',
   description="A package for reading, writing, and editing of JSON files, Python dictionaries, and such.",
   py_modules=["jsonify"],
   package_dir={"": "src"},
   long_description=long_description,
   long_description_content_type="text/markdown",
   author="minecraftpr03",
+  url="https://github.com/MasterCoder21/JSONifier",
   author_email=None,
   classifiers=[
     "Programming Language :: Python :: 3",
