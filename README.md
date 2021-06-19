@@ -1,7 +1,9 @@
-# [JSONifier](https://github.com/MasterCoder21/JSONifier) << Click there for package details
+# JSONifier
 
 ---
-## A package for reading, writing, and editing of JSON files, Python dictionaries, and such.
+## [Github](https://github.com/MasterCoder21/JSONifier)
+## [PyPI](https://pypi.org/project/JSONifier/)
+### A package for reading, writing, and editing of JSON files, Python dictionaries, and such.
 
 ---
 

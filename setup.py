@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
   name='JSONifier',
-  version='0.0.6',
+  version='0.0.7',
   description="A package for reading, writing, and editing of JSON files, Python dictionaries, and such.",
   py_modules=["jsonify"],
   package_dir={"": "src"},
